@@ -50,7 +50,7 @@ Knowing the exact location of the ISS will be critical at two times: once during
 ![alt_text](images/image1.png "image_tooltip")
 
 
-_Figure 1. _ISS orbit visualization. The ground tracks repeat every 3 days. Figure source: [23]
+_Figure 1._ ISS orbit visualization. The ground tracks repeat every 3 days. Figure source: [23]
 
 Due to atmospheric drag, the ISS altitude decreases over time and requires periodic thrusting to re-adjust to a nominal level. Consequently, knowing the precise position of the ISS requires an understanding of the exact altitude of the station at a given point in time, which varies depending on how frequently the station is boosted into a higher orbit. [17]
 
