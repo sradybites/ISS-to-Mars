@@ -64,20 +64,12 @@ Unless significant amounts of new hardware are required, we expect the amount of
 Knowing the exact location of the ISS will be critical at two times: once during the launch to upgrade and repair the station, and again when the station is ready to begin its orbital transfer to Mars. The orbit of the ISS is approximately circular with a nominal altitude of 409 km and an inclination of 51.6°, with an orbital period of 90–93 minutes. The orbital ground tracks over the Earth approximately repeat every 3 days.
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
 _Figure 1. _ISS orbit visualization. The ground tracks repeat every 3 days. Figure source: [23]
 
 Due to atmospheric drag, the ISS altitude decreases over time and requires periodic thrusting to re-adjust to a nominal level. Consequently, knowing the precise position of the ISS requires an understanding of the exact altitude of the station at a given point in time, which varies depending on how frequently the station is boosted into a higher orbit. [17]
-
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image2.png "image_tooltip")
@@ -114,10 +106,6 @@ JPL Horizons can also provide the osculating orbital parameters directly.
 Typically, launches to the ISS have taken place from LC-39A at Kennedy Space Center. This low-latitude launch location reduces the amount of delta-V required to rendezvous with the ISS due to the rotation of the Earth. In terms of launch vehicles, either the SpaceX Falcon 9 or Falcon Heavy will be natural choices given their proven capability for both crewed and uncrewed missions in addition to the extensive existing infrastructure built for their operation at LC-39A. Given that the Space Shuttle was capable of transporting 27,500 kg of payload to low Earth orbit (LEO), the Falcon 9 is slightly less capable at a rated payload of 22,800 kg to LEO while the Falcon Heavy can transfer far more at up to 63,800 kg to LEO. [18] [19] Although the exact delta-V required to rendezvous with the ISS is dependent on specific characteristics of the launch vehicle due to gravity losses, NASA estimates that it takes about 9.4 km/s of delta-V to reach LEO. [20]
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image3.jpg "image_tooltip")
 
 
@@ -125,9 +113,6 @@ _Figure 3. _Falcon 9 at LC39-A. Figure source: [24]
 
 The ISS has up to 8 docking ports, enabling multiple spacecraft to rendezvous to support renovation activities while in LEO. [21]
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image4.jpg "image_tooltip")
@@ -149,9 +134,6 @@ A more general estimate can be achieved by calculating the orbital positions and
 
 Solving Lambert’s Problem across this date range using these expected transfer times produces Figure 5 and Table 1, indicating the optimal transfer dates and minimum delta-V for the transfer orbit.
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image5.jpg "image_tooltip")
@@ -274,10 +256,6 @@ _Table 2. _Earth-Mars transfer orbital elements for optimal 2031 launch opportun
 These orbital elements can be used to calculate the mean motion, mean anomaly, eccentric anomaly, and true anomaly of the ISS across the transfer time in order to plot its position. The positions of Earth and Mars can also be plotted using their known orbital elements at the transfer time. Figure 6 presents the positions of the Earth (blue), Mars (green), and ISS (red) in the heliocentric ecliptic frame during the Earth-Mars transfer. Figure 6 clearly illustrates a successful interception of Mars at the end of the transfer orbit.
 
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image6.jpg "image_tooltip")
 
 
@@ -288,9 +266,6 @@ _Figure 6._ The orbits of Earth (blue), Mars (green), and the ISS (red) are plot
 
 The new orbit around Mars would be relatively low in altitude, at 500 km or less [4], to accommodate its use as a hub for surface missions. A balance must be struck between a low orbit to allow for less fuel on surface missions, and a slightly higher orbit that would require less refueling of the station in the long term. [13] However, with an atmospheric density less than 1% that of Earth, atmospheric drag around Mars will be less of a concern than the current Earth orbit. As shown in Figure 7, secular drag analysis based on a Glenn Research Center model of the Mars atmosphere shows effectively zero change in altitude over 10,000 orbital periods (based on the orbit about to be described). [32] [33]
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image7.png "image_tooltip")
