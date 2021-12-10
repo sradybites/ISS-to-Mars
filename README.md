@@ -559,11 +559,7 @@ Renovations and new module installations.
 (subject to change)
    </td>
   </tr>
-</table>
-
-
-
-# 
+</table> 
 
 
 # 10. References
