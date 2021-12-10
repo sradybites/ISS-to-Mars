@@ -566,15 +566,7 @@ Renovations and new module installations.
 # 
 
 
-# 10. Link to Appendix MATLAB Code
-
-This folder includes the MATLAB live script and supporting MATLAB code needed to generate the porkchop plot, transfer orbit plot, and delta V requirements.
-
-
-# [https://drive.google.com/drive/folders/19gcSTow-jK_pMA6vEF7wC0uEryrt7E65?usp=sharing](https://drive.google.com/drive/folders/19gcSTow-jK_pMA6vEF7wC0uEryrt7E65?usp=sharing)
-
-
-# 11. References
+# 10. References
 
 [1] Dunbar, B. (2015, May 20). _What is the International Space Station?_ NASA. Retrieved October 8, 2021, from https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/what-is-the-iss-k4.html. 
 
